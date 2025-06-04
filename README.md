@@ -5,3 +5,5 @@ We control one character with KBM and the other with a ps5 controller putting as
 The 2 player need to help each other to solve some puzzles and advance on the levels.
 Items can get picked up to enable some special abilities that will be required to solve other puzzles.
 Combining abilities is the only way to reach the end.
+
+PS : we used 0 outside assets. Every single thing is home made.
